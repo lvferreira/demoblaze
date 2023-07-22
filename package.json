@@ -1,0 +1,17 @@
+{
+  "name": "demoblaze",
+  "version": "1.0.0",
+  "description": "QA Automation Project DemoBlaze",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Leandro Ferreira",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.17.2"
+  }
+}
