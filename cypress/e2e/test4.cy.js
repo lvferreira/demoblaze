@@ -5,8 +5,8 @@ describe('Category Test', () => {
         // Log In
         cy.visit('/')
         cy.contains('Log in').click()
-        cy.get('#loginusername').type('your_username')
-        cy.get('#loginpassword').type('your_password')
+        cy.get('#loginusername').type('lahunakbal')
+        cy.get('#loginpassword').type('password123')
         cy.contains('Log in').click()
 
         // Go to main categories level page (category tab on left)
