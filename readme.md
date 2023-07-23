@@ -1,9 +1,17 @@
-# Project Name
+# Demo Blaze 🔥
 
-[![Build Status](https://img.shields.io/travis/your_username/project_name/master.svg?style=flat-square)](https://travis-ci.org/your_username/project_name)
-[![License](https://img.shields.io/github/license/your_username/project_name.svg?style=flat-square)](https://github.com/your_username/project_name/blob/master/LICENSE)
+<p align="center">
+  <a href="https://cypress.io">
+    <img width="140" alt="Cypress Logo" src="./cypress/src/svgs/cypress.svg" />
+    </a>
+</p>
 
-Short description or introduction of your project. Mention the main features and purpose.
+<p align="center">
+   <a href="https://cloud.cypress.io/projects/nv36p8/runs">
+    <img src="https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/nv36p8/develop&style=flat&logo=cypress" />
+  </a>
+
+A simple automation project built using Cypress for testing a web based application. Its main purpose is to demonstrate a transalation from plain text test cases to cypress test automation scripts within the time range (2 hours). My goal here is to give a glimpsy of a fully functional cypress automation project can be.
 
 ## Table of Contents
 
@@ -14,11 +22,11 @@ Short description or introduction of your project. Mention the main features and
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
+## Getting Started 🛠
 
 Instructions on how to get the project up and running on a local machine. Include prerequisites and any initial setup required.
 
-## Installation
+## Installation 🚀
 
 Step-by-step instructions on how to install the project. Include any package managers or commands required.
 
@@ -26,19 +34,19 @@ Step-by-step instructions on how to install the project. Include any package man
 npm install
 ```
 
-## Usage
+## Usage 💻
 
 Its mainly purpose is for CoderByte evaluation.
 
-## Tests
+## Tests ⚡️
 
 ```bash
 npm cypress run
 ```
 
-## Contributing
+## Contributing ✨
 
-Thanks goes to wonderful people reviewing ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to all wonderful people reviewing ([emoji key](https://allcontributors.org/docs/en/emoji-key))
 
 ## License
 

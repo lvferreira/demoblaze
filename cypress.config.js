@@ -5,6 +5,7 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://www.demoblaze.com"
+    baseUrl: "https://www.demoblaze.com/"
   },
+  projectId: "nv36p8"
 });
