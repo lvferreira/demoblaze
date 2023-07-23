@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/detailed/nv36p8/develop&style=flat&logo=cypress" />
   </a>
 
-A simple automation project built using Cypress for testing a web based application. Its main purpose is to demonstrate a transalation from plain text test cases to cypress test automation scripts within the time range (2 hours). My goal here is to give a glimpsy of a fully functional cypress automation project can be.
+A simple automation project built using Cypress for testing a web based application. Its main purpose is to demonstrate a translation from plain text test cases to cypress test automation scripts within the time range (2 hours). My goal here is to give a glimpsy of a fully functional cypress automation project can be.
 
 ## Table of Contents
 
