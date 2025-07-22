@@ -12,6 +12,6 @@
   "author": "Leandro Ferreira",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^12.17.2"
+    "cypress": "^14.5.2"
   }
 }
